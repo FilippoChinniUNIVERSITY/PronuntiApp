@@ -1,18 +1,65 @@
-# ABCD
+# PronuntiApp
 
-Caso di Studio di gruppo di **Sviluppo di Mobile Software**
+PronuntiApp is an app for remote Speech Therapy app designed for users with
+language disorders, helping them perform speech therapy exercises using
+gamification techniques.
 
-### Membri del Gruppo
-- Filippo Chinni Carella&nbsp;&nbsp;&nbsp;                                                                           - 764471 - f.chinnicarella@studenti.uniba.it
-- Pasquale Di Gennaro&nbsp;&nbsp;&nbsp;&nbsp;                                                                        - 758195 - p.digennaro5@studenti.uniba.it
-- Diego Amati&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  - 764467 - d.amati6@studenti.uniba.it
-- Nicola Balzano&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                       - 754694 - n.balzano2@studenti.uniba.it
+![AppIcon](_readme_res/ABCD%20-%20PronuntiApp%20-%20Icona%20di%20Prodotto.png)
 
-### Consegna
-I materiali relativi alla Consegna sono tutti presenti su [Cartella Consegna SMS - ABCD](https://unibari-my.sharepoint.com/:f:/g/personal/f_chinnicarella_studenti_uniba_it/EudTsJO7ESBCne--sbFTPlcB14U-ZsS1qHqU-KlHOCYU8A?e=1Axqsi)
+The app is designed for three types of users: Speech-Language Pathologists, Parents, and Patients.
 
-#### Link Utili (Versioni Google Docs delle Documentazioni)
-[Documentazione SMS - Sviluppo](https://docs.google.com/document/d/1MxPoTQ4-u34BvvMwY7dz4-nAXZBiK7o3bSSQS1MC34k/edit?usp=drive_link)<br>
-[Documentazione SMS - Progettazione Icona](https://docs.google.com/document/d/1THEak-fdt5yi9-NPtGX5_4eC0jSdUH3LI5cWFlz5MNc/edit?usp=drive_link)<br>
-[Documentazione SMS - Manuale Utente](https://docs.google.com/document/d/1MxPoTQ4-u34BvvMwY7dz4-nAXZBiK7o3bSSQS1MC34k/edit?usp=drive_link)<br>
+Patients are the true focus of the app; the app exists for them, and they are its primary
+users. The term "patient" refers to a child, as the app is designed to facilitate
+speech therapy for a very young target audience.
+Children complete their assigned therapy in the form of a game; the therapy
+activities are essentially mini-games that the child must perform.
 
+Speech-Language Pathologists are the professionals who create and manage therapy for the children.
+The primary use of the app by doctors is to assign therapies
+and exercises to children and to establish contact with the children's parents.
+
+Parents are the parents of the children who use the app.
+Parents use the app differently than their children; their main
+purpose is to monitor the child's progress throughout the therapy process and
+schedule appointments with the speech-language pathologist.
+
+## Project
+
+PronuntiApp is the project me and my team presented for the Mobile Software Development exam. I was the team leader and all the member of the team passed the exam with the highest mark.
+
+PronuntiApp was developed following principles and good practices for Mobile App Development. Principles of Software Engineering were also applied in order to facilitate future project expansion or revision.
+
+PronuntiApp is production-ready and all additional resources required to be uploaded to a store and commercialized are present in the repository.
+
+## Showcase
+
+### Video Showcase
+
+Full Video Showcase: [Video Youtube](https://youtu.be/Obdf4ah43q8)
+
+![Video](_readme_res/ABCD%20-%20PronuntiApp%20-%20Filmato.gif)
+
+### Screenshot Showcase
+
+|              |                                                                                                |     |
+|--------------|------------------------------------------------------------------------------------------------|------|
+| Screenshot 1 & 2 | <img src="./_readme_res/ABCD - PronuntiApp - Screenshot 1.jpg" alt="Screenshot1" width="250"/> | <img src="./_readme_res/ABCD - PronuntiApp - Screenshot 2.jpg" alt="Screenshot2" width="250"/> |
+| Screenshot 3 & 4 | <img src="./_readme_res/ABCD - PronuntiApp - Screenshot 3.jpg" alt="Screenshot3" width="250"/> | <img src="./_readme_res/ABCD - PronuntiApp - Screenshot 4.jpg" alt="Screenshot4" width="250"/> |
+| Screenshot 5 & 6 | <img src="./_readme_res/ABCD - PronuntiApp - Screenshot 5.jpg" alt="Screenshot5" width="250"/> | <img src="./_readme_res/ABCD - PronuntiApp - Screenshot 6.jpg" alt="Screenshot6" width="250"/> |
+
+
+### PronuntiApp Flyer
+
+![Flyer](_readme_res/ABCD%20-%20Pronunti%20App%20-%20Volantino%20Pubblicitario-1.png)
+
+## Documentation
+
+(All the documents are only available in Italian)
+
+App Presentation: [Pitch](./_readme_res/ABCD%20-%20Pronunti%20App%20-%20Presentazione.pdf)
+
+Development Documentation: [Dev Doc](_readme_res/ABCD%20-%20PronuntiApp%20-%20Documentazione%20di%20Sviluppo.pdf)
+
+User Documentation: [User Manual](_readme_res/ABCD%20-%20PronuntiApp%20-%20Documentazione%20Manuale%20Utente.pdf)
+
+Icon Desing Documentation: [Icon Design](_readme_res/ABCD%20-%20PronuntiApp%20-%20Documentazione%20Progettazione%20Icona.pdf)
