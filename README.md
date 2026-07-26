@@ -35,7 +35,7 @@ PronuntiApp is production-ready and all additional resources required to be uplo
 
 ### Video Showcase
 
-Full Video Showcase: [Video Youtube](https://youtu.be/Obdf4ah43q8)
+Full Video Showcase: [Full Video](https://drive.google.com/file/d/1r5BcV_R5O8a9XdiJQhYE7u_J7pDj0YD9/view?usp=sharing)
 
 ![Video](_readme_res/ABCD%20-%20PronuntiApp%20-%20Filmato.gif)
 
